@@ -1,4 +1,4 @@
 streamlit ==1.10.0
 joblib
 numpy
-sklearn
+scikit_learn
